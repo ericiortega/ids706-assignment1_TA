@@ -1,6 +1,6 @@
-pylint
-flake8
-pytest
-click
-black
-pytest-cov
+pylint>=3.2
+flake8>=7.1
+pytest>=8.3
+click>=8.1
+black>=24.8
+pytest-cov>=4.1
