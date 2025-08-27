@@ -1,5 +1,8 @@
 # IDS 706 – Assignment 1 (TA Demo Repo)
 
+[![CI](https://github.com/ericiortega/ids706-assignment1_TA/actions/workflows/ci.yml/badge.svg)](https://github.com/ericiortega/ids706-assignment1_TA/actions/workflows/ci.yml)
+
+
 This repository is my TA demo for Assignment 1 in Data Engineering Systems (IDS 706). 
 It shows how to build a minimal Python project with a script, tests, automation, and GitHub integration.
 
